@@ -11,4 +11,5 @@
 
 <hr/>
 
-Chỉ là dự án để mình học Flutter thôi, không có gì nhiều :))
+Chỉ là dự án để mình học Flutter thôi, không có gì nhiều :))\
+học trong 12 giờ.
